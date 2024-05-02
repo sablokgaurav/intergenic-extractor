@@ -7,7 +7,7 @@ generateintergenic("/home/gaurav/Desktop/final_code_push/multi.gff",
                    "/home/gaurav/Desktop/final_code_push/final.fasta")
 ```
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
